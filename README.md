@@ -37,4 +37,4 @@ This contract can be extended and improved with the following features:
    MyModule = "0x123"
 
    ##screenshot
-   <img width="1623" height="822" alt="image" src="https://github.com/user-attachments/assets/6e0cbfa4-8a7d-4535-87ab-f27b924802d1" />
+   https://github-production-user-asset-6210df.s3.amazonaws.com/224730922/478650499-6e0cbfa4-8a7d-4535-87ab-f27b924802d1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250816%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250816T095613Z&X-Amz-Expires=300&X-Amz-Signature=bd340f8450be9a512d753d0c0652bc2136b414f3d3313f87201c3aa5f4d20a28&X-Amz-SignedHeaders=host
